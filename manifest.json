@@ -1,0 +1,12 @@
+{
+  "name": "pokemon of the day",
+  "version": "1.0",
+  "description": "Random Pokemon. Everytime.",
+  "manifest_version": 2,
+  "icons": {
+    "48": "icons/icon48.png"
+  },
+  "browser_action": {
+    "default_popup": "popup.html"
+  }
+}
